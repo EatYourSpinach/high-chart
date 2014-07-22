@@ -1,0 +1,26 @@
+{
+  "name": "high-chart",
+  "version": "1.0.0",
+  "homepage": "https://github.com/EatYourSpinach/high-chart",
+  "authors": [
+    "Chris Gallo"
+  ],
+  "description": "polymer web component for high charts",
+  "main": "high-chart.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "highcharts": "highslide-software/highcharts-release#master"
+  }
+  "keywords": [
+    "polymer",
+    "highcharts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
