@@ -10,7 +10,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#master",
     "highcharts": "highslide-software/highcharts-release#master"
-  }
+  },
   "keywords": [
     "polymer",
     "highcharts"
